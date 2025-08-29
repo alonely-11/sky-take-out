@@ -6,3 +6,9 @@ sky:
     database: sky_take_out
     username: root
     password: JBTM.gk.1
+  #需要注册并认证阿里云领取试用产品补充下列信息
+  alioss:
+    endpoint: 666
+    access-key-id: 666
+    access-key-secret: 666
+    bucket-name: 666
